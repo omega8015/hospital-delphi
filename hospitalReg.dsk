@@ -78,9 +78,9 @@ EditViewName=C:\Users\Philimonov\OneDrive\Документы\Embarcadero\Studio\
 [View1]
 CustomEditViewType=TEditView
 Module=C:\Users\Philimonov\OneDrive\Документы\Embarcadero\Studio\Projects\Hospital\population.pas
-CursorX=62
-CursorY=331
-TopLine=315
+CursorX=43
+CursorY=273
+TopLine=258
 LeftCol=1
 Elisions=
 Bookmarks=
@@ -294,8 +294,8 @@ SplitPos=111
 
 [PropInspDesignerSelection]
 ArrangeBy=Name
-SelectedItem=Action,OnCanClose
-ExpandedItems=Constraints=0,Anchors=0,BevelEdges=0,Font=0,LiveBindings=0,"LiveBindings Designer=0",Margins=0,Options=0,StyleElements=0,Touch=0,HorzScrollBar=0,Font.Style=0,EditLabel=0,ImageMargins=0,OptionsEx=0,Menu=0,Padding=0
+SelectedItem=Align,Images
+ExpandedItems=Anchors=0,Constraints=0,LiveBindings=0,Font=0,"LiveBindings Designer=0",Margins=0,Options=0,MenuAnimation=0,StyleElements=0,Touch=0,Action=0,ImageMargins=0,BevelEdges=0
 
 [frmDesignPreview]
 PercentageSizes=1
