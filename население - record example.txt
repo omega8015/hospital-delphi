@@ -1,0 +1,12 @@
+Type TPerson = record
+  name : string[15];
+  surname : string[20];
+  patronymic : string[20];
+  birthYear : integer;
+  sex : boolean;
+  city : string[15];
+  street : string[20];
+  builnding : integer;
+  profession : string[15];
+  password : string[10];
+end;
